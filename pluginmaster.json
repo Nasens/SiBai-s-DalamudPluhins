@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Ice, Nasens",
+    "Name": "Ice's Cosmic Exploration (汉化)",
+    "Punchline": "我们需要的采集小帮手。",
+    "Description": "Ice's Cosmic Exploration 中文汉化版（AI 翻译）。A little helper to go gather your heart out.",
+    "Changelog": "- ICE 汉化版首发",
+    "IsHide": false,
+    "InternalName": "ICE",
+    "AssemblyVersion": "0.0.78.15",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/Nasens/Ices-Cosmic-Exploration",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadCount": 0,
+    "LastUpdate": 1781192162,
+    "DownloadLinkInstall": "https://github.com/Nasens/Ices-Cosmic-Exploration/releases/download/ICE%E6%B1%89%E5%8C%96/ICE-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Nasens/Ices-Cosmic-Exploration/releases/download/ICE%E6%B1%89%E5%8C%96/ICE-latest.zip",
+    "SupportsProfiles": true,
+    "Tags": [
+      "Gatherers"
+    ],
+    "IconUrl": "https://puni.sh/api/plugins/icon/70"
+  }
+]
