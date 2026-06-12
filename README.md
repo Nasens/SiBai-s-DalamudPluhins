@@ -1,4 +1,4 @@
-链接：https://raw.githubusercontent.com/Nasens/SiBai-s-DalamudPluhins/main/pluginmaster.json
+链接：https://raw.githubusercontent.com/Nasens/SiBai-s-DalamudPluhins/refs/heads/main/pluginmaster.json
 
 AI汉化，请谨慎使用
 
