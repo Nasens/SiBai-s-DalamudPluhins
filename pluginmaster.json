@@ -21,5 +21,28 @@
       "Gatherers"
     ],
     "IconUrl": "https://puni.sh/api/plugins/icon/70"
+  },
+  {
+    "Author": "Taurenkey (Puni.sh), Nasens",
+    "Name": "Artisan (汉化)",
+    "Punchline": "一站式制作插件。",
+    "Description": "Artisan 中文汉化版（AI 翻译）。The all-in-one crafting plugin.",
+    "Changelog": "- 4.0.6.15 初始汉化",
+    "IsHide": false,
+    "InternalName": "Artisan",
+    "AssemblyVersion": "4.0.6.15",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/Nasens/Artisan",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadCount": 0,
+    "LastUpdate": 1781419506,
+    "DownloadLinkInstall": "https://github.com/Nasens/Artisan/releases/download/AI%E6%B1%89%E5%8C%96/Artisan-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Nasens/Artisan/releases/download/AI%E6%B1%89%E5%8C%96/Artisan-latest.zip",
+    "SupportsProfiles": true,
+    "Tags": [
+      "crafting"
+    ],
+    "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
   }
 ]
