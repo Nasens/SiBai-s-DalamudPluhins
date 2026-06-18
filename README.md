@@ -6,3 +6,6 @@ AI汉化，请谨慎使用
 
 Ices Cosmic Exploration
 主库：https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration
+
+Artisan
+主库：https://github.com/PunishXIV/Artisan
